@@ -1,3 +1,5 @@
+"  to set the path to ideaVIM: source ~/.vimrc
+
 """ Map leader to space ---------------------
 let mapleader=" "
 
